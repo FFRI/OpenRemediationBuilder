@@ -1,0 +1,4 @@
+module yara {
+    umbrella header "yara.h"
+    link "yara"
+}
